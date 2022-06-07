@@ -8,5 +8,6 @@
 <p>-Listas<p/>
 <p>-Imagem<p/>
 <br>
-<br>
-<img src="https://github.com/larissasn/Primeiro-projeto/blob/master/img/print%20da%20tela.png?raw=true"/>
+
+<h3> :point_down: Deixo aqui abaixo o print de como fica meu projeto na tela de um computador :point_down:</h3>
+<img  src="https://github.com/larissasn/Primeiro-projeto/blob/master/img/print%20da%20tela.png?raw=true"/>
